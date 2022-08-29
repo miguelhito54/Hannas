@@ -1,0 +1,12 @@
+2022-08-13T14:30:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Automattic\WooCommerce\Admin\Features\OnboardingTasks\DeprecatedExtendedTask::__construct(), 1 passed in /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php on line 783 and exactly 2 expected in /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/DeprecatedExtendedTask.php:39
+Stack trace:
+#0 /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php(783): Automattic\WooCommerce\Admin\Features\OnboardingTasks\DeprecatedExtendedTask->__construct(Array)
+#1 /Applications/MAMP/htdocs/hannasmakeup/wp-includes/rest-api/class-wp-rest-server.php(1143): Automattic\WooCommerce\Admin\API\OnboardingTasks->dismiss_task(Object(WP_REST_Request))
+#2 /Applications/MAMP/htdocs/hannasmakeup/wp-includes/rest-api/class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', A en /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/DeprecatedExtendedTask.php en la línea 39
+
+2022-08-13T14:30:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Automattic\WooCommerce\Admin\Features\OnboardingTasks\DeprecatedExtendedTask::__construct(), 1 passed in /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php on line 783 and exactly 2 expected in /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/DeprecatedExtendedTask.php:39
+Stack trace:
+#0 /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php(783): Automattic\WooCommerce\Admin\Features\OnboardingTasks\DeprecatedExtendedTask->__construct(Array)
+#1 /Applications/MAMP/htdocs/hannasmakeup/wp-includes/rest-api/class-wp-rest-server.php(1143): Automattic\WooCommerce\Admin\API\OnboardingTasks->dismiss_task(Object(WP_REST_Request))
+#2 /Applications/MAMP/htdocs/hannasmakeup/wp-includes/rest-api/class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', A en /Applications/MAMP/htdocs/hannasmakeup/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/DeprecatedExtendedTask.php en la línea 39
+

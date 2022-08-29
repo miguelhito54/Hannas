@@ -1,0 +1,49 @@
+# Translation of Plugins - External URL Featured Image - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - External URL Featured Image - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 22:02:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - External URL Featured Image - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "Jhon Marreros Guzmán"
+msgstr "Jhon Marreros Guzmán"
+
+#. Description of the plugin
+msgid "This plugin allows to use External URL Images for your posts types, it's compatible with Nelio External Featured Image metadata."
+msgstr "Te permite usar URLs externas para tus imágenes destacadas, es compatible con los metadatoa del plugin Nelio External Featured Image."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://decodecms.com"
+msgstr "https://decodecms.com"
+
+#. Plugin Name of the plugin
+msgid "External URL Featured Image"
+msgstr "External URL Featured Image"
+
+#: includes/html/inc-metabox.php:49
+msgid "Error URL Image"
+msgstr "Error en la URL de imagen"
+
+#: includes/html/inc-metabox.php:14
+msgid "Remove Image"
+msgstr "Eliminar imagen"
+
+#: includes/html/inc-metabox.php:10
+msgid "No image"
+msgstr "No hay imagen"
+
+#: includes/html/inc-metabox.php:5
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: includes/class-dcms-external-url-featured-image.php:59
+msgid "External Featured Image"
+msgstr "Imagen Destacada Externa"
